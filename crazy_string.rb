@@ -6,4 +6,4 @@ def crazy_strings(first_string, second_string)
   puts "#{first_string} #{second_string}"
 end
 
-crazy_strings("Hello", "Friends")
+puts crazy_strings("Hello", "Friends")
