@@ -6,4 +6,4 @@ def crazy_string(first_string, second_string)
   return "#{first_string} #{second_string}"
 end
 
-# crazy_string("Hello", "Friends")
+crazy_string("Hello", "Friends")
